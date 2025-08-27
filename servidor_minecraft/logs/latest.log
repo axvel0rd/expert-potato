@@ -168,3 +168,82 @@
 [02:56:25] [Server thread/INFO]: BigBiggerB[/127.236.159.56:53577] logged in with entity id 4845 at (130.5, 64.0, -68.5)
 [02:56:25] [Server thread/INFO]: BigBiggerB joined the game
 [02:56:33] [Server thread/INFO]: CoreChixx was shot by Skeleton
+[02:56:44] [Server thread/INFO]: BigBiggerB was slain by Zombie
+[02:56:59] [Server thread/INFO]: <BigBiggerB> vrg
+[02:57:01] [Server thread/INFO]: <axvel> Quieren q lo tp conmigo?
+[02:57:05] [Server thread/INFO]: <BigBiggerB> ye
+[02:57:07] [Server thread/INFO]: <CoreChixx> yo no
+[02:57:15] [Server thread/INFO]: <BigBiggerB> vrg
+[02:57:24] [Server thread/INFO]: <BigBiggerB> esta version esta optimizada con las patas .-.
+[02:57:24] [Server thread/INFO]: Incorrect argument for command
+[02:57:24] [Server thread/INFO]: tp BigBiggerB/tp BigBiggerB axvel<--[HERE]
+[02:57:47] [Server thread/INFO]: Teleported BigBiggerB to axvel
+[02:57:50] [Server thread/INFO]: <BigBiggerB> ty
+[02:57:56] [Server thread/INFO]: <BigBiggerB> ya recorde pq nunca termine jugando esta
+[02:57:57] [Server thread/INFO]: BigBiggerB has made the advancement [Stone Age]
+[02:57:58] [Server thread/INFO]: <BigBiggerB> osea
+[02:58:01] [Server thread/INFO]: <BigBiggerB> va bien
+[02:58:05] [Server thread/INFO]: <BigBiggerB> pero consume demasiados recursos
+[02:58:08] [Server thread/INFO]: <axvel> Pues cual va mejor :u
+[02:58:12] [Server thread/INFO]: <BigBiggerB> ni la ultima es asi xDDD
+[02:58:18] [Server thread/INFO]: <BigBiggerB> 1.17 en adelante
+[02:58:21] [Server thread/INFO]: <axvel> Pues cual es mejor alavelga
+[02:58:24] [Server thread/INFO]: <axvel> namames
+[02:58:25] [Server thread/INFO]: <BigBiggerB> pasa que esto es por culpa del nether
+[02:58:25] [Server thread/INFO]: <axvel> jajajaja
+[02:58:27] [Server thread/INFO]: <BigBiggerB> igual esta bien
+[02:58:32] [Server thread/INFO]: <BigBiggerB> ya se estabilizo
+[02:58:38] [Server thread/INFO]: <BigBiggerB> 150fps me da
+[02:58:44] [Server thread/INFO]: <axvel> valiendo v
+[02:58:45] [Server thread/INFO]: <BigBiggerB> pero si tardo
+[02:58:48] [Server thread/INFO]: <axvel> tonces deja checo
+[02:58:53] [Server thread/INFO]: axvel has made the advancement [Acquire Hardware]
+[02:59:00] [Server thread/INFO]: axvel has made the advancement [Suit Up]
+[02:59:14] [Server thread/INFO]: BigBiggerB was slain by Zombie
+[02:59:22] [Server thread/INFO]: <BigBiggerB> xD
+[02:59:26] [Server thread/INFO]: <BigBiggerB> ahorita mellego
+[02:59:56] [Server thread/INFO]: <BigBiggerB> xDD
+[03:00:00] [Server thread/INFO]: <BigBiggerB> ya deja esta version mejor
+[03:00:10] [Server thread/INFO]: <BigBiggerB> tarda en estabilizar
+[03:00:14] [Server thread/INFO]: <BigBiggerB> pero ya jala fino
+[03:01:28] [Server thread/INFO]: axvel has made the advancement [Sweet Dreams]
+[03:01:46] [Server thread/INFO]: axvel was blown up by Creeper
+[03:01:47] [Server thread/INFO]: <BigBiggerB> ASDASDASD
+[03:01:53] [Server thread/INFO]: <BigBiggerB> vrg
+[03:02:07] [Server thread/INFO]: syren[/127.240.147.147:37101] logged in with entity id 5594 at (137.5, 64.0, -72.5)
+[03:02:07] [Server thread/INFO]: syren joined the game
+[03:02:12] [Server thread/INFO]: CoreChixx has made the advancement [Stone Age]
+[03:02:47] [Server thread/INFO]: <BigBiggerB> XD
+[03:02:50] [Server thread/INFO]: <BigBiggerB> nice skin bro
+[03:02:52] [Server thread/INFO]: <BigBiggerB> sis
+[03:02:55] [Server thread/INFO]: <syren> yo me veo como steve
+[03:03:01] [Server thread/INFO]: <syren> dps la cambio en la pagina de tlauncher
+[03:03:14] [Server thread/INFO]: <BigBiggerB> tasdasdas
+[03:03:52] [Server thread/INFO]: syren lost connection: Disconnected
+[03:03:52] [Server thread/INFO]: syren left the game
+[03:04:56] [Server thread/INFO]: CoreChixx has made the advancement [Getting an Upgrade]
+[03:05:40] [Server thread/INFO]: <BigBiggerB> xD
+[03:05:57] [Server thread/INFO]: CoreChixx has made the advancement [Acquire Hardware]
+[03:06:41] [Server thread/INFO]: CoreChixx has made the advancement [Isn't It Iron Pick]
+[03:07:34] [Server thread/INFO]: <BigBiggerB> 100fps
+[03:07:41] [Server thread/INFO]: <BigBiggerB> pero la 1.16 esta mal optimizada
+[03:07:44] [Server thread/INFO]: <BigBiggerB> la ultima me va a 200
+[03:07:50] [Server thread/INFO]: <BigBiggerB> sis
+[03:07:54] [Server thread/INFO]: <BigBiggerB> mil veces mejor la ultima
+[03:07:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:07:58] [Server thread/INFO]: stop<--[HERE]
+[03:08:01] [Server thread/INFO]: Stopping the server
+[03:08:01] [Server thread/INFO]: Stopping server
+[03:08:01] [Server thread/INFO]: Saving players
+[03:08:01] [Server thread/INFO]: CoreChixx lost connection: Disconnected
+[03:08:01] [Server thread/INFO]: CoreChixx left the game
+[03:08:01] [Server thread/INFO]: Saving worlds
+[03:08:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
