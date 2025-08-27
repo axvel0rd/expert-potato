@@ -1,5 +1,5 @@
-[03:22:00] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[03:22:00] [main/INFO]: Loading 43 mods:
+[06:04:43] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[06:04:43] [main/INFO]: Loading 43 mods:
 	- fabric-api 0.132.0+1.21.8
 	   |-- fabric-api-base 0.5.0+cd8c0daa2c
 	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
@@ -50,390 +50,57 @@
 	- ksyxis 1.3.4
 	- lithium 0.18.0+mc1.21.8
 	- minecraft 1.21.8
-[03:22:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/expert-potato/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:22:00] [main/INFO]: Compatibility level set to JAVA_21
-[03:22:00] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[03:22:00] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
-[03:22:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:22:09] [main/INFO]: Ksyxis: Booting... (platform: Fabric/KFabric, manual: false)
-[03:22:09] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (mixinVersion: 0.8.7, time: 1 ms)
-[03:22:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:22:09] [main/INFO]: Found new data pack fabric, loading it automatically
-[03:22:09] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[03:22:11] [main/INFO]: Loaded 1407 recipes
-[03:22:11] [main/INFO]: Loaded 1520 advancements
-[03:22:11] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.632 ms
-[03:22:11] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[03:22:11] [Server thread/INFO]: Loading properties
-[03:22:11] [Server thread/INFO]: Default game type: SURVIVAL
-[03:22:11] [Server thread/INFO]: Generating keypair
-[03:22:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:22:11] [Server thread/INFO]: Using epoll channel type
-[03:22:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:22:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:22:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:22:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:22:11] [Server thread/INFO]: Preparing level "world"
-[03:22:12] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (injector: modern, ci: CallbackInfo[TYPE=CallbackInfo,NAME=method_3774,CANCELLABLE=false], server: net.minecraft.class_3176@676731a4)
-[03:22:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:22:12] [Server thread/INFO]: Time elapsed: 21 ms
-[03:22:12] [Server thread/INFO]: Done (0.497s)! For help, type "help"
-[03:23:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:24:03] [Server thread/INFO]: BigBiggerB[/127.236.159.56:44569] logged in with entity id 1 at (3.5, 66.0, 6.5)
-[03:24:03] [Server thread/INFO]: BigBiggerB joined the game
-[03:24:55] [Server thread/INFO]: axvelw[/127.154.106.170:51593] logged in with entity id 519 at (-3.5, 70.0, -1.5)
-[03:24:55] [Server thread/INFO]: axvelw joined the game
-[03:25:21] [Server thread/INFO]: [Not Secure] <BigBiggerB> dios
-[03:25:23] [Server thread/INFO]: [Not Secure] <BigBiggerB> q riko
-[03:26:38] [Server thread/INFO]: [Not Secure] <axvelw> ta con madre
-[03:26:41] [Server thread/INFO]: [Not Secure] <BigBiggerB> asi si se presta bro
-[03:26:53] [Server thread/INFO]: [Not Secure] <BigBiggerB> y tambien probamos las cosas nuevas
-[03:27:14] [Server thread/INFO]: [Not Secure] <BigBiggerB> yo le tengo puesto ahoruita como 10 mods
-[03:27:18] [Server thread/INFO]: [Not Secure] <BigBiggerB> pero de cliente namas
-[03:27:21] [Server thread/INFO]: CoreChixx[/127.130.64.172:35579] logged in with entity id 926 at (10.5, 75.0, -3.5)
-[03:27:21] [Server thread/INFO]: CoreChixx joined the game
-[03:27:22] [Server thread/INFO]: [Not Secure] <BigBiggerB> osea, plugins namas
-[03:27:24] [Server thread/INFO]: [Not Secure] <BigBiggerB> y 2 de fps
-[03:27:28] [Server thread/INFO]: [Not Secure] <BigBiggerB> y me va a 150
-[03:27:32] [Server thread/INFO]: [Not Secure] <BigBiggerB> y la pc no esta forzada
-[03:27:33] [Server thread/INFO]: [Not Secure] <BigBiggerB> si
-[03:27:39] [Server thread/INFO]: [Not Secure] <BigBiggerB> y tengo 20chunks
-[03:27:48] [Server thread/INFO]: [Not Secure] <BigBiggerB> en la 1.16.5 tenia 5 y la pc explotaba xd
-[03:28:13] [Server thread/INFO]: [Not Secure] <BigBiggerB> xDDDD
-[03:28:21] [Server thread/INFO]: [Not Secure] <BigBiggerB> a 4 chunk me va a 250
-[03:28:41] [Server thread/INFO]: [Not Secure] <BigBiggerB> ye
-[03:28:47] [Server thread/INFO]: [Not Secure] <BigBiggerB> dile a syren q no le pare mucho al entity
-[03:28:52] [Server thread/INFO]: [Not Secure] <BigBiggerB> yo no lo tengo puesto y va joya
-[03:29:31] [Server thread/INFO]: [Not Secure] <BigBiggerB> q cagada
-[03:30:08] [Server thread/INFO]: [Not Secure] <BigBiggerB> sis aklsdjas
-[03:30:15] [Server thread/INFO]: CoreChixx has made the advancement [Stone Age]
-[03:30:28] [Server thread/INFO]: [Not Secure] <BigBiggerB> es que me iba bien
-[03:30:37] [Server thread/INFO]: [Not Secure] <BigBiggerB> pero no c, ahorita de la nada disque 100 de cpu
-[03:30:41] [Server thread/INFO]: [Not Secure] <BigBiggerB> 80 de grafica
-[03:30:48] [Server thread/INFO]: [Not Secure] <BigBiggerB> 2gb de ram y yo como wha?????
-[03:30:51] [Server thread/INFO]: [Not Secure] <BigBiggerB> y ahorita ps chill
-[03:30:57] [Server thread/INFO]: [Not Secure] <BigBiggerB> 40 de cpu, 15 de grafica
-[03:31:00] [Server thread/INFO]: [Not Secure] <BigBiggerB> 700 de ram
-[03:31:17] [Server thread/INFO]: [Not Secure] <BigBiggerB> oo
-[03:31:24] [Server thread/INFO]: [Not Secure] <BigBiggerB> net
-[03:31:26] [Server thread/INFO]: [Not Secure] <BigBiggerB> no hace falta
-[03:31:28] [Server thread/INFO]: [Not Secure] <BigBiggerB> tengo el mapa xd
-[03:31:31] [Server thread/INFO]: [Not Secure] <axvelw> 61 72 -174
-[03:31:34] [Server thread/INFO]: [Not Secure] <BigBiggerB> ye
-[03:31:58] [Server thread/INFO]: [Not Secure] <BigBiggerB> askldasjd
-[03:32:08] [Server thread/INFO]: [Not Secure] <BigBiggerB> bro ya es de noche bro
-[03:32:38] [Server thread/INFO]: BigBiggerB has made the advancement [Acquire Hardware]
-[03:32:41] [Server thread/INFO]: CoreChixx has made the advancement [Getting an Upgrade]
-[03:33:15] [Server thread/INFO]: [Not Secure] <BigBiggerB> xd
-[03:33:22] [Server thread/INFO]: [Not Secure] <BigBiggerB> lo unico malo de la version es el pimche barco
-[03:33:26] [Server thread/INFO]: [Not Secure] <BigBiggerB> se bugea horrible
-[03:33:28] [Server thread/INFO]: [Not Secure] <BigBiggerB> del resto joya
-[03:33:42] [Server thread/INFO]: [Not Secure] <BigBiggerB> mmm
-[03:33:45] [Server thread/INFO]: [Not Secure] <BigBiggerB> creo que hay ahogados
-[03:33:56] [Server thread/INFO]: [Not Secure] <BigBiggerB> aunqeu hay un cofre ahi
-[03:33:58] [Server thread/INFO]: [Not Secure] <BigBiggerB> pero no lo vale
-[03:33:59] [Server thread/INFO]: CoreChixx has made the advancement [Acquire Hardware]
-[03:34:19] [Server thread/INFO]: [Not Secure] <BigBiggerB> awebo
-[03:34:20] [Server thread/INFO]: [Not Secure] <BigBiggerB> comida
-[03:34:40] [Server thread/INFO]: [Not Secure] <BigBiggerB> sis
-[03:34:43] [Server thread/INFO]: [Not Secure] <BigBiggerB> se me paso eso
-[03:34:44] [Server thread/INFO]: [Not Secure] <BigBiggerB> csm
-[03:34:49] [Server thread/INFO]: [Not Secure] <BigBiggerB> ese si ta god
-[03:35:01] [Server thread/INFO]: [Not Secure] <BigBiggerB> decorados
-[03:35:05] [Server thread/INFO]: CoreChixx has made the advancement [Monster Hunter]
-[03:35:05] [Server thread/INFO]: [Not Secure] <BigBiggerB> de la ultima version
-[03:35:29] [Server thread/INFO]: [Not Secure] <BigBiggerB> no se presta
-[03:35:35] [Server thread/INFO]: [Not Secure] <BigBiggerB> s
-[03:35:36] [Server thread/INFO]: [Not Secure] <BigBiggerB> i
-[03:35:46] [Server thread/INFO]: [Not Secure] <BigBiggerB> pero es dificil se conseguir
-[03:35:49] [Server thread/INFO]: [Not Secure] <BigBiggerB> yo estuve jugando
-[03:35:52] [Server thread/INFO]: [Not Secure] <BigBiggerB> y lo vi una pta vez
-[03:35:57] [Server thread/INFO]: [Not Secure] <BigBiggerB> y ni me salio el mob de ahi
-[03:36:09] [Server thread/INFO]: [Not Secure] <BigBiggerB> oe
-[03:37:19] [Server thread/INFO]: [Not Secure] <BigBiggerB> erae
-[03:37:21] [Server thread/INFO]: axvelw has made the advancement [Acquire Hardware]
-[03:37:23] [Server thread/INFO]: [Not Secure] <BigBiggerB> sory
-[03:37:26] [Server thread/INFO]: axvelw has made the advancement [Monster Hunter]
-[03:37:26] [Server thread/INFO]: [Not Secure] <BigBiggerB> taba viendo algo
-[03:37:52] [Server thread/INFO]: [Not Secure] <BigBiggerB> corre
-[03:37:58] [Server thread/INFO]: [Not Secure] <BigBiggerB> ayayay
-[03:38:04] [Server thread/INFO]: [Not Secure] <BigBiggerB> oe
-[03:38:08] [Server thread/INFO]: [Not Secure] <BigBiggerB> no tenias un maopa?
-[03:38:10] [Server thread/INFO]: syren9ne[/127.240.147.147:52143] logged in with entity id 7429 at (0.5, 69.0, -3.5)
-[03:38:10] [Server thread/INFO]: syren9ne joined the game
-[03:38:17] [Server thread/INFO]: [Not Secure] <BigBiggerB> vamos
-[03:38:28] [Server thread/INFO]: [Not Secure] <BigBiggerB> sabes cual deberiamos de meter
-[03:38:31] [Server thread/INFO]: [Not Secure] <BigBiggerB> el mod de dormir
-[03:39:00] [Server thread/INFO]: CoreChixx has made the advancement [Not Today, Thank You]
-[03:39:14] [Server thread/INFO]: [Not Secure] <BigBiggerB> no me digas q esta aqui el cofre
-[03:39:16] [Server thread/INFO]: [Not Secure] <syren9ne> parezco una egirl con esta skin
-[03:39:17] [Server thread/INFO]: [Not Secure] <syren9ne> sapegato
-[03:39:29] [Server thread/INFO]: [Not Secure] <BigBiggerB> si
-[03:39:33] [Server thread/INFO]: [Not Secure] <BigBiggerB> es los jugadores
-[03:39:41] [Server thread/INFO]: [Not Secure] <BigBiggerB> si
-[03:39:46] [Server thread/INFO]: [Not Secure] <BigBiggerB> el punto rojo es axvel
-[03:39:52] [Server thread/INFO]: [Not Secure] <BigBiggerB> ye
-[03:39:56] [Server thread/INFO]: [Not Secure] <BigBiggerB> son vacas con skin xd
-[03:40:00] [Server thread/INFO]: [Not Secure] <BigBiggerB> todo eso es nuevo de la ultima
-[03:40:04] [Server thread/INFO]: [Not Secure] <BigBiggerB> WE
-[03:40:06] [Server thread/INFO]: [Not Secure] <BigBiggerB> corre
-[03:40:44] [Server thread/INFO]: CoreChixx has made the advancement [Isn't It Iron Pick]
-[03:40:46] [Server thread/INFO]: BigBiggerB has made the advancement [Monster Hunter]
-[03:41:00] [Server thread/INFO]: [Not Secure] <BigBiggerB> Estas seguro q es aqui?
-[03:41:54] [Server thread/INFO]: [Not Secure] <BigBiggerB> aqui
-[03:42:02] [Server thread/INFO]: [Not Secure] <BigBiggerB> aqui
-[03:42:03] [Server thread/INFO]: [Not Secure] <BigBiggerB> justo
-[03:42:05] [Server thread/INFO]: [Not Secure] <BigBiggerB> viste
-[03:42:10] [Server thread/INFO]: [Not Secure] <BigBiggerB> la ultiam es mejor
-[03:42:10] [Server thread/INFO]: [Not Secure] <BigBiggerB> aqui
-[03:42:54] [Server thread/INFO]: [Not Secure] <BigBiggerB> si
-[03:43:47] [Server thread/INFO]: BigBiggerB has made the advancement [Isn't It Iron Pick]
-[03:44:05] [Server thread/INFO]: axvelw has made the advancement [Diamonds!]
-[03:44:22] [Server thread/INFO]: [Not Secure] <BigBiggerB> asdasd
-[03:44:35] [Server thread/INFO]: [Not Secure] <BigBiggerB> pero eres negro bro
-[03:44:40] [Server thread/INFO]: [Not Secure] <BigBiggerB> si
-[03:44:47] [Server thread/INFO]: [Not Secure] <BigBiggerB> lo veo como persona de escazos recursos
-[03:45:13] [Server thread/INFO]: BigBiggerB has made the advancement [Diamonds!]
-[03:45:21] [Server thread/INFO]: [Not Secure] <BigBiggerB> tu viste la pelicula de mc?
-[03:45:28] [Server thread/INFO]: [Not Secure] <BigBiggerB> te ves como la negra esa
-[03:45:41] [Server thread/INFO]: [Not Secure] <axvelw> 256 65 -830
-[03:45:53] [Server thread/INFO]: [Not Secure] <BigBiggerB> eso
-[03:45:57] [Server thread/INFO]: [Not Secure] <BigBiggerB> toma bro
-[03:46:01] [Server thread/INFO]: [Not Secure] <BigBiggerB> para que no te sientas solito
-[03:46:08] [Server thread/INFO]: [Not Secure] <BigBiggerB> una pepita
-[03:46:17] [Server thread/INFO]: [Not Secure] <BigBiggerB> q
-[03:46:21] [Server thread/INFO]: [Not Secure] <BigBiggerB> a ve
-[03:46:24] [Server thread/INFO]: [Not Secure] <BigBiggerB> chao bro
-[03:46:27] [Server thread/INFO]: [Not Secure] <BigBiggerB> tengo madera
-[03:46:29] [Server thread/INFO]: [Not Secure] <BigBiggerB> asdas
-[03:46:33] [Server thread/INFO]: [Not Secure] <BigBiggerB> a
-[03:46:38] [Server thread/INFO]: [Not Secure] <BigBiggerB> sis
-[03:47:05] [Server thread/INFO]: [Not Secure] <BigBiggerB> toma bro
-[03:47:13] [Server thread/INFO]: CoreChixx has made the advancement [Suit Up]
-[03:47:29] [Server thread/INFO]: [Not Secure] <BigBiggerB> tamos pobres
-[03:47:32] [Server thread/INFO]: [Not Secure] <BigBiggerB> no
-[03:47:35] [Server thread/INFO]: [Not Secure] <BigBiggerB> conseguir comida bro
-[03:47:41] [Server thread/INFO]: axvelw has made the advancement [Stone Age]
-[03:47:42] [Server thread/INFO]: [Not Secure] <BigBiggerB> no c bro
-[03:47:44] [Server thread/INFO]: [Not Secure] <BigBiggerB> solo sale
-[03:48:08] [Server thread/INFO]: axvelw has made the advancement [Getting an Upgrade]
-[03:48:08] [Server thread/INFO]: [Not Secure] <BigBiggerB> ve
-[03:48:10] [Server thread/INFO]: [Not Secure] <BigBiggerB> ven
-[03:48:12] [Server thread/INFO]: [Not Secure] <BigBiggerB> deja lo hago yo
-[03:48:14] [Server thread/INFO]: [Not Secure] <BigBiggerB> mas rapido
-[03:48:24] [Server thread/INFO]: syren9ne was slain by BigBiggerB
-[03:48:45] [Server thread/INFO]: [Not Secure] <BigBiggerB> tamos al lado
-[03:48:58] [Server thread/INFO]: [Not Secure] <BigBiggerB> ps 160 bloques
-[03:49:00] [Server thread/INFO]: [Not Secure] <BigBiggerB> tan lejos no es
-[03:49:35] [Server thread/INFO]: [Not Secure] <BigBiggerB> ye
-[03:49:39] [Server thread/INFO]: syren9ne has made the advancement [Stone Age]
-[03:49:39] [Server thread/INFO]: [Not Secure] <BigBiggerB> ey
-[03:49:41] [Server thread/INFO]: [Not Secure] <BigBiggerB> un barco
-[03:50:09] [Server thread/INFO]: [Not Secure] <BigBiggerB> si
-[03:50:15] [Server thread/INFO]: [Not Secure] <BigBiggerB> si
-[03:50:46] [Server thread/INFO]: [Not Secure] <BigBiggerB> en un barco
-[03:50:49] [Server thread/INFO]: [Not Secure] <BigBiggerB> consegui otro mapa
-[03:50:57] [Server thread/INFO]: [Not Secure] <BigBiggerB> go
-[03:51:08] [Server thread/INFO]: [Not Secure] <BigBiggerB> si
-[03:51:25] [Server thread/INFO]: [Not Secure] <BigBiggerB> wa
-[03:51:28] [Server thread/INFO]: [Not Secure] <BigBiggerB> y ese bloque
-[03:51:30] [Server thread/INFO]: [Not Secure] <BigBiggerB> nop
-[03:51:32] [Server thread/INFO]: syren9ne has made the advancement [Getting an Upgrade]
-[03:51:36] [Server thread/INFO]: [Not Secure] <BigBiggerB> hay una tierra flotando askldjas
-[03:51:44] [Server thread/INFO]: [Not Secure] <BigBiggerB> vengan
-[03:51:50] [Server thread/INFO]: [Not Secure] <BigBiggerB> no jodas
-[03:51:53] [Server thread/INFO]: [Not Secure] <BigBiggerB> es la misma zona
-[03:51:58] [Server thread/INFO]: [Not Secure] <BigBiggerB> si
-[03:52:05] [Server thread/INFO]: [Not Secure] <BigBiggerB> eso
-[03:52:10] [Server thread/INFO]: [Not Secure] <BigBiggerB> na
-[03:52:11] [Server thread/INFO]: [Not Secure] <BigBiggerB> es el mismo
-[03:52:13] [Server thread/INFO]: [Not Secure] <BigBiggerB> ya no hay cofre
-[03:52:26] [Server thread/WARN]: Acacia Boat (vehicle of axvelw) moved wrongly! 0.259296292065784
-[03:52:27] [Server thread/INFO]: [Not Secure] <BigBiggerB> aqui
-[03:52:28] [Server thread/WARN]: Acacia Boat (vehicle of axvelw) moved wrongly! 0.2520143248447937
-[03:52:28] [Server thread/WARN]: Acacia Boat (vehicle of axvelw) moved wrongly! 0.3446254305551406
-[03:52:28] [Server thread/WARN]: Acacia Boat (vehicle of axvelw) moved wrongly! 0.43859631739695715
-[03:52:36] [Server thread/INFO]: [Not Secure] <BigBiggerB> ya sacamos el cofre de aqui
-[03:52:45] [Server thread/INFO]: [Not Secure] <BigBiggerB> solo sale 1
-[03:53:21] [Server thread/INFO]: syren9ne has made the advancement [Monster Hunter]
-[03:53:24] [Server thread/INFO]: [Not Secure] <BigBiggerB> yo me tengo q ir como en 10m
-[03:53:28] [Server thread/INFO]: [Not Secure] <BigBiggerB> tengo q madrugar mañanaw
-[03:53:34] [Server thread/INFO]: [Not Secure] <BigBiggerB> asi q vamos a explorar rapidito
-[03:53:42] [Server thread/INFO]: [Not Secure] <BigBiggerB> ya mañana jugamos mas
-[03:53:56] [Server thread/INFO]: [Not Secure] <BigBiggerB> q
-[03:54:02] [Server thread/INFO]: [Not Secure] <BigBiggerB> e
-[03:54:16] [Server thread/INFO]: [Not Secure] <BigBiggerB> aa
-[03:54:29] [Server thread/INFO]: CoreChixx has made the advancement [Diamonds!]
-[03:54:37] [Server thread/INFO]: [Not Secure] <BigBiggerB> diavolo
-[03:54:42] [Server thread/INFO]: [Not Secure] <BigBiggerB> este si hay
-[03:54:50] [Server thread/INFO]: [Not Secure] <BigBiggerB> pero
-[03:54:53] [Server thread/INFO]: [Not Secure] <BigBiggerB> no bajes
-[03:54:56] [Server thread/INFO]: [Not Secure] <BigBiggerB> NO
-[03:55:14] [Server thread/INFO]: [Not Secure] <BigBiggerB> 9 ahogados xd
-[03:55:32] [Server thread/INFO]: [Not Secure] <BigBiggerB> aldea de q?
-[03:55:40] [Server thread/INFO]: [Not Secure] <BigBiggerB> no
-[03:55:41] [Server thread/INFO]: [Not Secure] <BigBiggerB> si es buena
-[03:55:49] [Server thread/INFO]: [Not Secure] <BigBiggerB> rola coor
-[03:56:25] [Server thread/INFO]: [Not Secure] <BigBiggerB> oo
-[03:56:26] [Server thread/INFO]: [Not Secure] <BigBiggerB> go
-[03:56:28] [Server thread/INFO]: [Not Secure] <BigBiggerB> 2
-[03:56:45] [Server thread/INFO]: [Not Secure] <BigBiggerB> x2 as
-[03:56:47] [Server thread/INFO]: [Not Secure] <BigBiggerB> alv
-[03:57:06] [Server thread/INFO]: [Not Secure] <BigBiggerB> xD
-[03:57:19] [Server thread/INFO]: CoreChixx was slain by Zombie
-[03:57:26] [Server thread/INFO]: [Not Secure] <BigBiggerB> xD
-[03:57:33] [Server thread/INFO]: [Not Secure] <BigBiggerB> oficialmente la primera muerte
-[03:57:57] [Server thread/INFO]: [Not Secure] <BigBiggerB> sis
-[03:57:59] [Server thread/INFO]: [Not Secure] <BigBiggerB> se ve god
-[03:58:20] [Server thread/INFO]: [Not Secure] <BigBiggerB> tiene pinta q hay mineshaft
-[03:58:25] [Server thread/INFO]: [Not Secure] <BigBiggerB> sis
-[03:58:48] [Server thread/INFO]: [Not Secure] <BigBiggerB> toma
-[03:59:31] [Server thread/INFO]: [Not Secure] <BigBiggerB> ocrre
-[03:59:37] [Server thread/INFO]: [Not Secure] <BigBiggerB> eso es bueno
-[03:59:44] [Server thread/INFO]: [Not Secure] <BigBiggerB> si
-[04:00:08] [Server thread/INFO]: axvelw was slain by Zombie
-[04:00:12] [Server thread/INFO]: [Not Secure] <BigBiggerB> NOOO
-[04:00:16] [Server thread/INFO]: [Not Secure] <BigBiggerB> mi compita :c
-[04:00:23] [Server thread/INFO]: Incorrect argument for command
-[04:00:23] [Server thread/INFO]: tp axvel tp axvel BigBiggerB<--[HERE]
-[04:00:30] [Server thread/INFO]: No entity was found
-[04:00:39] [Server thread/INFO]: No entity was found
-[04:00:53] [Server thread/INFO]: Teleported axvelw to BigBiggerB
-[04:00:56] [Server thread/INFO]: [Not Secure] <BigBiggerB> alv
-[04:00:58] [Server thread/INFO]: BigBiggerB has made the advancement [Stone Age]
-[04:00:58] [Server thread/INFO]: BigBiggerB has made the advancement [Getting an Upgrade]
-[04:01:25] [Server thread/INFO]: [Not Secure] <BigBiggerB> esa es la tuya
-[04:01:34] [Server thread/INFO]: [Not Secure] <BigBiggerB> ty
-[04:01:46] [Server thread/INFO]: [Not Secure] <BigBiggerB> :c
-[04:02:05] [Server thread/INFO]: [Not Secure] <BigBiggerB> si
-[04:02:11] [Server thread/INFO]: [Not Secure] <BigBiggerB> las liberamos de su prision bro
-[04:02:14] [Server thread/INFO]: CoreChixx drowned
-[04:02:14] [Server thread/INFO]: [Not Secure] <BigBiggerB> tu chill
-[04:02:19] [Server thread/INFO]: [Not Secure] <BigBiggerB> bro
-[04:02:49] [Server thread/INFO]: [Not Secure] <BigBiggerB> aa
-[04:02:53] [Server thread/INFO]: [Not Secure] <BigBiggerB> aqui
-[04:03:00] [Server thread/INFO]: [Not Secure] <BigBiggerB> bro
-[04:03:03] [Server thread/INFO]: [Not Secure] <BigBiggerB> no tienes lo de la barra?
-[04:03:11] [Server thread/INFO]: [Not Secure] <BigBiggerB> xD
-[04:03:22] [Server thread/INFO]: [Not Secure] <BigBiggerB> BRO BRO
-[04:03:33] [Server thread/INFO]: [Not Secure] <BigBiggerB> vamos bro
-[04:03:53] [Server thread/INFO]: [Not Secure] <BigBiggerB> q bonita zona bro
-[04:03:59] [Server thread/INFO]: [Not Secure] <BigBiggerB> tan despejada
-[04:04:07] [Server thread/INFO]: [Not Secure] <BigBiggerB> llanuras
-[04:04:12] [Server thread/INFO]: [Not Secure] <axvelw> 1141 70 503
-[04:04:21] [Server thread/INFO]: [Not Secure] <BigBiggerB> sis
-[04:04:30] [Server thread/INFO]: [Not Secure] <BigBiggerB> aqui
-[04:04:40] [Server thread/INFO]: [Not Secure] <BigBiggerB> vrg
-[04:04:43] [Server thread/INFO]: [Not Secure] <BigBiggerB> un venezolano bro
-[04:04:46] [Server thread/INFO]: [Not Secure] <BigBiggerB> cuidao te come
-[04:05:19] [Server thread/INFO]: [Not Secure] <BigBiggerB> sera q ponemos el mod de tumbas?
-[04:05:31] [Server thread/INFO]: axvelw has made the advancement [Isn't It Iron Pick]
-[04:05:49] [Server thread/INFO]: [Not Secure] <BigBiggerB> bro
-[04:05:52] [Server thread/INFO]: [Not Secure] <BigBiggerB> me voy retirandio
-[04:05:58] [Server thread/INFO]: [Not Secure] <BigBiggerB> mañana jugamos
-[04:06:13] [Server thread/INFO]: [Not Secure] <BigBiggerB> es q tengo q madrugar bro
-[04:06:21] [Server thread/INFO]: [Not Secure] <BigBiggerB> pero ya mañana le damos mas
-[04:06:27] [Server thread/INFO]: [Not Secure] <BigBiggerB> y te paso mods chidos w
-[04:06:30] [Server thread/INFO]: [Not Secure] <BigBiggerB> como el de las tumbas
-[04:06:46] [Server thread/INFO]: [Not Secure] <BigBiggerB> chao bro
-[04:06:48] [Server thread/INFO]: [Not Secure] <BigBiggerB> los tqm
-[04:06:52] [Server thread/INFO]: BigBiggerB lost connection: Disconnected
-[04:06:52] [Server thread/INFO]: BigBiggerB left the game
-[04:13:08] [Server thread/INFO]: syren9ne has made the advancement [Acquire Hardware]
-[04:14:02] [Server thread/INFO]: axvelw has made the advancement [Sweet Dreams]
-[04:14:06] [Server thread/INFO]: syren9ne has made the advancement [Isn't It Iron Pick]
-[04:16:08] [Server thread/INFO]: syren9ne has made the advancement [Suit Up]
-[04:18:50] [Server thread/INFO]: syren9ne has made the advancement [Diamonds!]
-[04:20:49] [Server thread/INFO]: syren9ne has made the advancement [Not Today, Thank You]
-[04:25:10] [Server thread/INFO]: axvelw has made the advancement [Suit Up]
-[04:33:18] [Server thread/INFO]: CoreChixx has made the advancement [Cover Me with Diamonds]
-[04:39:51] [Server thread/INFO]: CoreChixx lost connection: Disconnected
-[04:39:51] [Server thread/INFO]: CoreChixx left the game
-[04:39:57] [Server thread/INFO]: syren9ne has made the advancement [Sweet Dreams]
-[04:40:12] [Server thread/INFO]: CoreChixx[/127.130.64.172:33223] logged in with entity id 51800 at (1145.300000011921, 62.0, 454.54623643375294)
-[04:40:12] [Server thread/INFO]: CoreChixx joined the game
-[04:57:43] [Server thread/INFO]: axvelw has made the advancement [Hot Stuff]
-[04:57:50] [Server thread/INFO]: CoreChixx has made the advancement [Hot Stuff]
-[04:59:51] [Server thread/INFO]: CoreChixx has made the advancement [We Need to Go Deeper]
-[04:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
-[05:03:39] [Server thread/INFO]: syren9ne has made the advancement [Cover Me with Diamonds]
-[05:06:40] [Server thread/INFO]: axvelw has made the advancement [Ice Bucket Challenge]
-[05:06:47] [Server thread/INFO]: syren9ne has made the advancement [Ice Bucket Challenge]
-[05:07:09] [Server thread/INFO]: CoreChixx has made the advancement [Ice Bucket Challenge]
-[05:08:18] [Server thread/INFO]: axvelw has made the advancement [Enchanter]
-[05:09:11] [Server thread/INFO]: CoreChixx has made the advancement [Enchanter]
-[05:09:41] [Server thread/INFO]: axvelw has made the advancement [We Need to Go Deeper]
-[05:10:29] [Server thread/INFO]: syren9ne has made the advancement [We Need to Go Deeper]
-[05:12:48] [Server thread/INFO]: syren9ne has made the advancement [A Terrible Fortress]
-[05:12:51] [Server thread/INFO]: CoreChixx has made the advancement [A Terrible Fortress]
-[05:13:42] [Server thread/INFO]: axvelw has made the advancement [A Terrible Fortress]
-[05:15:11] [Server thread/INFO]: syren9ne has completed the challenge [Return to Sender]
-[05:15:48] [Server thread/INFO]: axvelw has made the advancement [Spooky Scary Skeleton]
-[05:15:54] [Server thread/INFO]: CoreChixx withered away
-[05:16:29] [Server thread/INFO]: axvelw has made the advancement [Cover Me with Diamonds]
-[05:17:01] [Server thread/INFO]: Teleported CoreChixx to axvelw
-[05:17:13] [Server thread/INFO]: CoreChixx has made the advancement [Spooky Scary Skeleton]
-[05:17:25] [Server thread/INFO]: syren9ne has made the advancement [Into Fire]
-[05:18:32] [Server thread/INFO]: axvelw has made the advancement [Not Today, Thank You]
-[05:20:08] [Server thread/INFO]: axvelw has made the advancement [Into Fire]
-[05:24:18] [Server thread/INFO]: CoreChixx was slain by Enderman
-[05:24:43] [Server thread/WARN]: Oak Boat (vehicle of syren9ne) moved wrongly! 0.2689311151249152
-[05:24:43] [Server thread/WARN]: Oak Boat (vehicle of syren9ne) moved wrongly! 0.35745004735081487
-[05:25:07] [Server thread/INFO]: Teleported CoreChixx to axvelw
-[05:25:23] [Server thread/INFO]: CoreChixx has made the advancement [Into Fire]
-[05:27:39] [Server thread/WARN]: Oak Boat (vehicle of syren9ne) moved wrongly! 0.2757851248248251
-[05:27:39] [Server thread/WARN]: Oak Boat (vehicle of syren9ne) moved wrongly! 0.3716995650825474
-[05:29:36] [Server thread/WARN]: CoreChixx was kicked for floating too long!
-[05:29:36] [Server thread/INFO]: CoreChixx lost connection: Flying is not enabled on this server
-[05:29:36] [Server thread/INFO]: CoreChixx left the game
-[05:29:36] [Server thread/WARN]: handleDisconnection() called twice
-[05:30:17] [Server thread/INFO]: CoreChixx[/127.130.64.172:41905] logged in with entity id 70004 at (-226.62193342157846, 72.7531999805212, -356.1256419455198)
-[05:30:17] [Server thread/INFO]: CoreChixx joined the game
-[05:33:38] [Server thread/INFO]: Teleported syren9ne to axvelw
-[05:35:00] [Server thread/WARN]: Acacia Boat (vehicle of axvelw) moved wrongly! 0.32712486962554976
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of axvelw) moved wrongly! 0.8376222310037633
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of axvelw) moved wrongly! 0.6494296837747413
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of CoreChixx) moved wrongly! 0.29096511967216543
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of axvelw) moved wrongly! 0.8376222310037633
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of axvelw) moved wrongly! 0.6307781477703429
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of CoreChixx) moved wrongly! 0.3004259439177872
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of axvelw) moved wrongly! 0.8376222310037633
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of axvelw) moved wrongly! 0.6151938797374612
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of CoreChixx) moved wrongly! 0.30898662206794825
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of axvelw) moved wrongly! 0.38078230898724996
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of CoreChixx) moved wrongly! 0.3167214927320856
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of CoreChixx) moved wrongly! 0.32370093635276476
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of CoreChixx) moved wrongly! 0.32999121222889016
-[05:38:54] [Server thread/WARN]: Acacia Boat (vehicle of CoreChixx) moved wrongly! 0.3356543751666834
-[05:41:02] [Server thread/INFO]: CoreChixx has made the advancement [Eye Spy]
-[05:41:02] [Server thread/INFO]: syren9ne has made the advancement [Eye Spy]
-[05:41:20] [Server thread/INFO]: axvelw has made the advancement [Eye Spy]
-[05:43:51] [Server thread/INFO]: syren9ne has made the advancement [Enchanter]
-[05:49:58] [Server thread/INFO]: Unknown game mode: CoreChixx
-[05:49:58] [Server thread/INFO]: ... CoreChixx spectator<--[HERE]
-[05:50:08] [Server thread/INFO]: Set CoreChixx's game mode to Spectator Mode
-[05:50:51] [Server thread/INFO]: Set CoreChixx's game mode to Survival Mode
-[05:51:27] [Server thread/INFO]: CoreChixx has made the advancement [Sweet Dreams]
-[05:54:30] [Server thread/INFO]: axvelw has made the advancement [The End?]
-[05:54:31] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[05:54:31] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[05:54:31] [Server thread/INFO]: CoreChixx has made the advancement [The End?]
-[05:54:32] [Server thread/INFO]: syren9ne has made the advancement [The End?]
-[05:56:46] [Server thread/INFO]: CoreChixx was doomed to fall by Ender Dragon
-[06:03:58] [Server thread/INFO]: CoreChixx lost connection: Disconnected
-[06:03:58] [Server thread/INFO]: CoreChixx left the game
-[06:04:00] [Server thread/INFO]: axvelw lost connection: Disconnected
-[06:04:00] [Server thread/INFO]: axvelw left the game
-[06:04:02] [Server thread/INFO]: syren9ne lost connection: Disconnected
-[06:04:02] [Server thread/INFO]: syren9ne left the game
-[06:04:05] [Server thread/INFO]: Stopping the server
-[06:04:05] [Server thread/INFO]: Stopping server
-[06:04:05] [Server thread/INFO]: Saving players
-[06:04:05] [Server thread/INFO]: Saving worlds
-[06:04:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:04:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:04:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:04:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:04:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:04:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:04:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:04:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/expert-potato/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[06:04:44] [main/INFO]: Compatibility level set to JAVA_21
+[06:04:44] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[06:04:44] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
+[06:04:44] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06:04:52] [main/INFO]: Ksyxis: Booting... (platform: Fabric/KFabric, manual: false)
+[06:04:52] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (mixinVersion: 0.8.7, time: 1 ms)
+[06:04:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:04:54] [main/INFO]: Loaded 1407 recipes
+[06:04:54] [main/INFO]: Loaded 1520 advancements
+[06:04:54] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.410 ms
+[06:04:54] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[06:04:54] [Server thread/INFO]: Loading properties
+[06:04:54] [Server thread/INFO]: Default game type: SURVIVAL
+[06:04:54] [Server thread/INFO]: Generating keypair
+[06:04:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:04:54] [Server thread/INFO]: Using epoll channel type
+[06:04:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:04:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:04:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:04:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:04:55] [Server thread/INFO]: Preparing level "world"
+[06:04:55] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (injector: modern, ci: CallbackInfo[TYPE=CallbackInfo,NAME=method_3774,CANCELLABLE=false], server: net.minecraft.class_3176@3a532f5c)
+[06:04:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:04:55] [Server thread/INFO]: Time elapsed: 26 ms
+[06:04:55] [Server thread/INFO]: Done (0.456s)! For help, type "help"
+[06:05:07] [Server thread/INFO]: syren9ne[/127.240.147.147:60457] logged in with entity id 2 at (-11.951207928758107, 61.0, 34.35304659039007)
+[06:05:07] [Server thread/INFO]: syren9ne joined the game
+[06:05:07] [Server thread/INFO]: axvelw[/127.154.106.170:52795] logged in with entity id 1 at (-2.3911535697869755, 63.0, 5.0994190039824066)
+[06:05:07] [Server thread/INFO]: axvelw joined the game
+[06:05:07] [Server thread/WARN]: Skipping player strafe phase because no player was found
+[06:06:05] [Server thread/INFO]: CoreChixx[/127.130.64.172:46057] logged in with entity id 135 at (-12.53106469497, 61.0, 34.6856113731024)
+[06:06:05] [Server thread/INFO]: CoreChixx joined the game
+[06:08:33] [Server thread/INFO]: syren9ne has made the advancement [Free the End]
+[06:09:06] [Server thread/INFO]: syren9ne has reached the goal [The Next Generation]
+[06:10:48] [Server thread/INFO]: CoreChixx lost connection: Disconnected
+[06:10:48] [Server thread/INFO]: CoreChixx left the game
+[06:20:48] [Server thread/INFO]: No entity was found
+[06:20:55] [Server thread/INFO]: Teleported syren9ne to axvelw
+[06:32:19] [Server thread/INFO]: axvelw lost connection: Disconnected
+[06:32:19] [Server thread/INFO]: axvelw left the game
+[06:32:20] [Server thread/INFO]: syren9ne lost connection: Disconnected
+[06:32:20] [Server thread/INFO]: syren9ne left the game
+[06:32:26] [Server thread/INFO]: Stopping the server
+[06:32:26] [Server thread/INFO]: Stopping server
+[06:32:26] [Server thread/INFO]: Saving players
+[06:32:26] [Server thread/INFO]: Saving worlds
+[06:32:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:32:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:32:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:32:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:32:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:32:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:32:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
